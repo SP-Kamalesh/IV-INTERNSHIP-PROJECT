@@ -1,0 +1,6 @@
+# Ignore Python bytecode cache
+__pycache__/
+*.py[cod]
+
+# Ignore the log file
+attentiveness_log.csv
